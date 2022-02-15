@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding background and objectives.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-010-electronic-feedback-systems-spring-2013/432fa8464521d3998a5f815bd57e42c9_MITRES_6-010S13_chap01.pdf
+file: /media/courses/res-6-010-electronic-feedback-systems-spring-2013/432fa8464521d3998a5f815bd57e42c9_MITRES_6-010S13_chap01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Online Textbooks
+ocw_type: OCWFile
+parent_title: Textbook
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'Operational Amplifiers: Chapter 1'
 uid: 432fa846-4521-d399-8a5f-815bd57e42c9

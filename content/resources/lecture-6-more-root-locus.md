@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Course Videos
+parent_type: SupplementalResourceSection
+related_resources_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
+  Notes (PDF)](resources/mitres_6-010s13_lec06)'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6: More Root Locus'
 uid: 3c744ebf-654f-de3b-ca2c-386fccf13718

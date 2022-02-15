@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Course Videos
+parent_type: SupplementalResourceSection
+related_resources_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
+  Notes (PDF)](resources/mitres_6-010s13_lec14)'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 14: Linearized Analysis of Nonlinear Systems'
 uid: dddf5a55-664e-54c0-1a3f-5b99f0fde3b0

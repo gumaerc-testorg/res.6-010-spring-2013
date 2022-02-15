@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Course Videos
+parent_type: SupplementalResourceSection
+related_resources_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
+  Notes (PDF)](resources/mitres_6-010s13_lec13)'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 13: Operational Amplifier Compensation (cont.)'
 uid: 09c790d1-e6eb-2279-6371-585c0e09f28b

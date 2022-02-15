@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Course Videos
+parent_type: SupplementalResourceSection
+related_resources_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
+  Notes (PDF)](resources/mitres_6-010s13_lec20)'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 20: Model Train Speed Control'
 uid: 64c02259-fc84-c871-e2d1-284ce04b84d8

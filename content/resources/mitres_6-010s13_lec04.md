@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding stability.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-010-electronic-feedback-systems-spring-2013/3170d6884f22bb4fa98912a9a11a3c11_MITRES_6-010S13_lec04.pdf
+file: /media/courses/res-6-010-electronic-feedback-systems-spring-2013/3170d6884f22bb4fa98912a9a11a3c11_MITRES_6-010S13_lec04.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Video Course Manual
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'Electronic Feedback Systems: Lecture 4'
 uid: 3170d688-4f22-bb4f-a989-12a9a11a3c11

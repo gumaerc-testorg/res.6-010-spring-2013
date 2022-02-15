@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Video Course Manual
 uid: 1870fed2-ef12-92c6-8bbe-9fdcf7c71870
 ---

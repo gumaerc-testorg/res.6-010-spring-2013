@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Course Videos
+parent_type: SupplementalResourceSection
+related_resources_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
+  Notes (PDF)](resources/mitres_6-010s13_lec15)'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 15: Describing Functions'
 uid: 052332cf-e3ed-db0a-a4b7-d8e13b6a55b8

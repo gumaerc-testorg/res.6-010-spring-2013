@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information regarding integrated-circuit operational
   amplifiers.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-010-electronic-feedback-systems-spring-2013/e5e99dfed6fb59195ba76fae54c59fb7_MITRES_6-010S13_chap10.pdf
+file: /media/courses/res-6-010-electronic-feedback-systems-spring-2013/e5e99dfed6fb59195ba76fae54c59fb7_MITRES_6-010S13_chap10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Online Textbooks
+ocw_type: OCWFile
+parent_title: Textbook
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'Operational Amplifiers: Chapter 10'
 uid: e5e99dfe-d6fb-5919-5ba7-6fae54c59fb7
