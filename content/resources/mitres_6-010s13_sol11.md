@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Video Course Manual
 parent_type: SupplementalResourceSection
+parent_uid: 1870fed2-ef12-92c6-8bbe-9fdcf7c71870
 resourcetype: Document
 title: 'Electronic Feedback Systems: Solutions 11'
 uid: f6b019a9-a9ec-a0c7-4f58-c002abf8813b

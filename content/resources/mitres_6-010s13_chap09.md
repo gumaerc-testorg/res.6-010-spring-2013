@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
+parent_uid: c87237fe-22ae-0a95-48ee-30c2382847cc
 resourcetype: Document
 title: 'Operational Amplifiers: Chapter 9'
 uid: ca904827-e59c-e862-cbe5-fb3745e7e1a4

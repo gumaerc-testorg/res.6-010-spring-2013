@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ related_resources_text: '![This resource may not render correctly in a screen re
   Notes (PDF)](resources/mitres_6-010s13_lec02)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Effects of Feedback on Noise and Nonlinearities'
 uid: 33b417bc-4f46-1121-0036-f8de9278ed42
 video_files:

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
+parent_uid: c87237fe-22ae-0a95-48ee-30c2382847cc
 resourcetype: Document
 title: 'Electronic Feedback Systems: Front Material'
 uid: ce21964d-5b6a-f6db-6519-87203deb3bb5

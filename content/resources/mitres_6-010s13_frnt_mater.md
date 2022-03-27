@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Video Course Manual
 parent_type: SupplementalResourceSection
+parent_uid: 1870fed2-ef12-92c6-8bbe-9fdcf7c71870
 resourcetype: Document
 title: 'Electronic Feedback Systems: Front Material'
 uid: 753d09cc-7bd1-2650-82fa-098944c13444

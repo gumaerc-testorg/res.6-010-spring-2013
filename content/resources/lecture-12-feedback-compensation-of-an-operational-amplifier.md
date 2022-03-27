@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ related_resources_text: '![This resource may not render correctly in a screen re
   Notes (PDF)](resources/mitres_6-010s13_lec12)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Feedback Compensation of an Operational Amplifier'
 uid: 73006814-c763-0942-cb39-b82a4c7d7ec3
 video_files:

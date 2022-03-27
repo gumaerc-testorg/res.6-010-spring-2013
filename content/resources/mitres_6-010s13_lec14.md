@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Video Course Manual
 parent_type: SupplementalResourceSection
+parent_uid: 1870fed2-ef12-92c6-8bbe-9fdcf7c71870
 resourcetype: Document
 title: 'Electronic Feedback Systems: Lecture 14'
 uid: 5b9e4b63-ae6e-0e27-3605-92c0c5482f78

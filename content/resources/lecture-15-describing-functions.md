@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ related_resources_text: '![This resource may not render correctly in a screen re
   Notes (PDF)](resources/mitres_6-010s13_lec15)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Describing Functions'
 uid: 052332cf-e3ed-db0a-a4b7-d8e13b6a55b8
 video_files:

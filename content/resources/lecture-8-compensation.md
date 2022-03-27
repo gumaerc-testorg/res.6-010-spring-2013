@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ related_resources_text: '![This resource may not render correctly in a screen re
   Notes (PDF)](resources/mitres_6-010s13_lec08)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Compensation'
 uid: ebed703b-18ee-15a3-2c43-a4809d269ebf
 video_files:

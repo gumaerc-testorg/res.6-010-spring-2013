@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ related_resources_text: '![This resource may not render correctly in a screen re
   Notes (PDF)](resources/mitres_6-010s13_lec01)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Introduction and Basic Concepts'
 uid: 1f7f8703-0f04-4032-e20a-e5e7f8663e1d
 video_files:

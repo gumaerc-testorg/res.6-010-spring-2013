@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ related_resources_text: '![This resource may not render correctly in a screen re
   Notes (PDF)](resources/mitres_6-010s13_lec06)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: More Root Locus'
 uid: 3c744ebf-654f-de3b-ca2c-386fccf13718
 video_files:
