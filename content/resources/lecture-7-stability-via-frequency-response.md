@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Course Videos
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
   Notes (PDF)](resources/mitres_6-010s13_lec07)'
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 7: Stability via Frequency Response'
 uid: 2f8ea467-a8db-0b79-4eb2-fe9a77e69fe0
 video_files:

@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Course Videos
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
   Notes (PDF)](resources/mitres_6-010s13_lec05)'
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 5: Root Locus'
 uid: 0601e9b4-7630-4290-c81d-aa068360390f
 video_files:

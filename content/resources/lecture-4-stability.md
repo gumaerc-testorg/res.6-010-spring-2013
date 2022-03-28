@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Course Videos
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
   Notes (PDF)](resources/mitres_6-010s13_lec04)'
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 4: Stability'
 uid: 5debe2b8-cc90-484f-7b71-a056521def5e
 video_files:
