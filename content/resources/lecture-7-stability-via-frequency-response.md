@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,11 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Course Videos
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
-  Notes (PDF)](resources/mitres_6-010s13_lec07)'
+related_resources_text: '[Lecture Notes (PDF)](/courses/res-6-010-electronic-feedback-systems-spring-2013/resources/mitres_6-010s13_lec07)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Stability via Frequency Response'
 uid: 2f8ea467-a8db-0b79-4eb2-fe9a77e69fe0
 video_files:
@@ -27,3 +27,6 @@ video_metadata:
 **Description:** This lecture covers Nyquist Criterion, development by mapping from s-place to the gain-phase plane, relative stability, closed-loop frequency response, and the Nichols Chart, including illustration with a 3-dimensional chart.
 
 **Instructor:** James K. Roberge
+
+
+

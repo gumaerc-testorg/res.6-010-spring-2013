@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,11 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Course Videos
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
-  Notes (PDF)](resources/mitres_6-010s13_lec17)'
+related_resources_text: '[Lecture Notes (PDF)](/courses/res-6-010-electronic-feedback-systems-spring-2013/resources/mitres_6-010s13_lec17)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Conditional Stability'
 uid: a1db58b6-64ee-e4ed-5418-5d36275c6973
 video_files:
@@ -27,3 +27,6 @@ video_metadata:
 **Description:** This lecture covers required types of loop transmissions and nonlinearities, confirmation by Bode and root-locus analysis, nonlinear compensation, and demonstrations of a conditionally-stable system with a saturating nonlinearity and a system with a dead zone.
 
 **Instructor:** James K. Roberge
+
+
+

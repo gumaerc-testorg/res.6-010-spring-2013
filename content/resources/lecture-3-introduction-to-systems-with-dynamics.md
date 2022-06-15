@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,11 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Course Videos
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
-  Notes (PDF)](resources/mitres_6-010s13_lec03)'
+related_resources_text: '[Lecture Notes (PDF)](/courses/res-6-010-electronic-feedback-systems-spring-2013/resources/mitres_6-010s13_lec03)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Introduction to Systems with Dynamics'
 uid: 0c8eb7fa-aca8-1287-827a-54b1b209190d
 video_files:
@@ -27,3 +27,6 @@ video_metadata:
 **Description:** This lecture covers first and second order systems, transient response, a demonstration illustrating approximating a higher-order system as a first or second order one, realtionships between step response and frequency response, and Bode plots.
 
 **Instructor:** James K. Roberge
+
+
+

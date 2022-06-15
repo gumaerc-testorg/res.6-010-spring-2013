@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,11 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Course Videos
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
-  Notes (PDF)](resources/mitres_6-010s13_lec12)'
+related_resources_text: '[Lecture Notes (PDF)](/courses/res-6-010-electronic-feedback-systems-spring-2013/resources/mitres_6-010s13_lec12)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Feedback Compensation of an Operational Amplifier'
 uid: 73006814-c763-0942-cb39-b82a4c7d7ec3
 video_files:
@@ -27,3 +27,6 @@ video_metadata:
 **Description:** This lecture covers practical considerations, single-pole compensation including demonstrations, two-pole compensation, and a demonstration of improved desensitivity compared with one-pole compensation.
 
 **Instructor:** James K. Roberge
+
+
+

@@ -1,9 +1,9 @@
 ---
 content_type: video_gallery
+description: The videos used for the Electronic Feedback Systems video course.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
-parent_uid: null
 title: Course Videos
 uid: 68468aba-4d94-0ec0-b77f-0033eecd6922
 videos:
