@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture covers analysis and a demonstration of a function generator, introduction to conditional stability, and a demonstration using amplifiers with two-pole compensation.
 
 **Instructor:** James K. Roberge
-
-
 

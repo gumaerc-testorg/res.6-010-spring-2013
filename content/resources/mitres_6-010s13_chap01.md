@@ -5,6 +5,7 @@ file: /courses/res-6-010-electronic-feedback-systems-spring-2013/432fa8464521d39
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: 'Operational Amplifiers: Chapter 1'
 uid: 432fa846-4521-d399-8a5f-815bd57e42c9
 ---
 This resource contains information regarding background and objectives.
-

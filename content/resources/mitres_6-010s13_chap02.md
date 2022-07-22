@@ -6,6 +6,7 @@ file: /courses/res-6-010-electronic-feedback-systems-spring-2013/307cb9d5beb51f5
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ title: 'Operational Amplifiers: Chapter 2'
 uid: 307cb9d5-beb5-1f58-cb44-b699e0c9cac2
 ---
 This resource contains information regarding properties and modeling of feedback systems.
-

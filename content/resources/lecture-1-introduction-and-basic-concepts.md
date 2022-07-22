@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture covers the definition of a feedback system, the closed loop gain, block diagrams, loop transmission, desensitivity, and impedance modification via feedback.
 
 **Instructor:** James K. Roberge
-
-
 

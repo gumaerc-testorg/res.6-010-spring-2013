@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture covers Nyquist Criterion, development by mapping from s-place to the gain-phase plane, relative stability, closed-loop frequency response, and the Nichols Chart, including illustration with a 3-dimensional chart.
 
 **Instructor:** James K. Roberge
-
-
 

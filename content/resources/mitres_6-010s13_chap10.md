@@ -6,6 +6,7 @@ file: /courses/res-6-010-electronic-feedback-systems-spring-2013/e5e99dfed6fb591
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ title: 'Operational Amplifiers: Chapter 10'
 uid: e5e99dfe-d6fb-5919-5ba7-6fae54c59fb7
 ---
 This resource contains information regarding integrated-circuit operational amplifiers.
-

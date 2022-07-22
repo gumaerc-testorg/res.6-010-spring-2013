@@ -5,6 +5,7 @@ file: /courses/res-6-010-electronic-feedback-systems-spring-2013/07139ba01c8bd46
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: 'Operational Amplifiers: Chapter 5'
 uid: 07139ba0-1c8b-d464-ed6f-8ec649db106d
 ---
 This resource contains information regarding compensation.
-

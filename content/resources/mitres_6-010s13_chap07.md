@@ -5,6 +5,7 @@ file: /courses/res-6-010-electronic-feedback-systems-spring-2013/757ab5f2ba2c3d9
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: 'Operational Amplifiers: Chapter 7'
 uid: 757ab5f2-ba2c-3d9f-5bba-b7dc2362f304
 ---
 This resource contains information regarding direct-coupled amplifiers.
-

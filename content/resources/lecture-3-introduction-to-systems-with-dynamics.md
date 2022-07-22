@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture covers first and second order systems, transient response, a demonstration illustrating approximating a higher-order system as a first or second order one, realtionships between step response and frequency response, and Bode plots.
 
 **Instructor:** James K. Roberge
-
-
 

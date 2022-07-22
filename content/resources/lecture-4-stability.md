@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture covers stability, special case of linear systems, behavior of first, second, and third-order systems as a function of loop-transmission magnitude, Routh Criterion, root-locus analysis, and sample construction for a second-order system.
 
 **Instructor:** James K. Roberge
-
-
 

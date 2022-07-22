@@ -5,6 +5,7 @@ file: /courses/res-6-010-electronic-feedback-systems-spring-2013/ca904827e59ce86
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: 'Operational Amplifiers: Chapter 9'
 uid: ca904827-e59c-e862-cbe5-fb3745e7e1a4
 ---
 This resource contains information regarding an illustrative design.
-

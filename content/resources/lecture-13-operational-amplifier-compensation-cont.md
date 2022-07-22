@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture covers potential minor-loop stability problems, slow roll-off compensation, and compensation that includes a zero with a demonstration of improvement with capacitive loading.
 
 **Instructor:** James K. Roberge
-
-
 

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture covers the topology and exact loop transmission of feedback compensation, simplification for the case of large minor-loop transmission magnitude, and a popular operational amplifier configuration that uses feedback compensation.
 
 **Instructor:** James K. Roberge
-
-
 

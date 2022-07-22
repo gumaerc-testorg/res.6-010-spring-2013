@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture covers required types of loop transmissions and nonlinearities, confirmation by Bode and root-locus analysis, nonlinear compensation, and demonstrations of a conditionally-stable system with a saturating nonlinearity and a system with a dead zone.
 
 **Instructor:** James K. Roberge
-
-
 
