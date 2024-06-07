@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding linearized analysis of nonlinear
   systems.
 file: /courses/res-6-010-electronic-feedback-systems-spring-2013/5b9e4b63ae6e0e27360592c0c5482f78_MITRES_6-010S13_lec14.pdf
+file_size: 270087
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

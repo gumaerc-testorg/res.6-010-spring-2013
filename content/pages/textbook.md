@@ -2,7 +2,7 @@
 content_type: page
 description: The textbook Operational Amplifiers by James K. Roberge.
 learning_resource_types:
-- Online Textbooks
+- Online Textbook
 ocw_type: SupplementalResourceSection
 title: Textbook
 uid: c87237fe-22ae-0a95-48ee-30c2382847cc

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding oscillators.
 file: /courses/res-6-010-electronic-feedback-systems-spring-2013/87954bdb04b714d50e2452ec3b1cc6fa_MITRES_6-010S13_lec18.pdf
+file_size: 277446
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

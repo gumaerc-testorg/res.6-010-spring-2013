@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding compensation.
 file: /courses/res-6-010-electronic-feedback-systems-spring-2013/58ad8fbd50ac9902c83531900dc39c3e_MITRES_6-010S13_lec08.pdf
+file_size: 229841
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
