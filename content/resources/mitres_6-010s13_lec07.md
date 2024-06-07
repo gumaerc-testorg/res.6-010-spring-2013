@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding stability via frequency
   response.
 file: /courses/res-6-010-electronic-feedback-systems-spring-2013/e2c246971a4d76bdccd1b94d81c65259_MITRES_6-010S13_lec07.pdf
+file_size: 404615
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding effects of feedback on noise
   and non-linearities.
 file: /courses/res-6-010-electronic-feedback-systems-spring-2013/e45331b163d7b2b60b71ed1d18dbd2cc_MITRES_6-010S13_lec02.pdf
+file_size: 291738
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

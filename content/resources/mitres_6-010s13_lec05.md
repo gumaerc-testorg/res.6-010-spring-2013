@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding root locus.
 file: /courses/res-6-010-electronic-feedback-systems-spring-2013/7436b4cc41bd699cad4eebf8227b3d0c_MITRES_6-010S13_lec05.pdf
+file_size: 207838
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

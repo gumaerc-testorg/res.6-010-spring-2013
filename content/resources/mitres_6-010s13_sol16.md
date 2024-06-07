@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding chapter 16 solutions.
 file: /courses/res-6-010-electronic-feedback-systems-spring-2013/bcfdad1dfa5f85b3c2e4d272d798f87e_MITRES_6-010S13_sol16.pdf
+file_size: 167787
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

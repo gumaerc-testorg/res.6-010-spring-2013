@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding front material.
 file: /courses/res-6-010-electronic-feedback-systems-spring-2013/753d09cc7bd1265082fa098944c13444_MITRES_6-010S13_frnt_mater.pdf
+file_size: 794639
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

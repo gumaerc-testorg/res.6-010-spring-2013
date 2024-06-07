@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding chapter 8 solutions.
 file: /courses/res-6-010-electronic-feedback-systems-spring-2013/a4d82a3357031b8daae19ec3cb3f42b5_MITRES_6-010S13_sol08.pdf
+file_size: 358877
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

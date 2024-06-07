@@ -2,9 +2,10 @@
 content_type: resource
 description: This resource contains information regarding an illustrative design.
 file: /courses/res-6-010-electronic-feedback-systems-spring-2013/ca904827e59ce862cbe5fb3745e7e1a4_MITRES_6-010S13_chap09.pdf
+file_size: 2098133
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Online Textbook
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
