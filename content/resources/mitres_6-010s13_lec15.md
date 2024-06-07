@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding describing functions.
 file: /courses/res-6-010-electronic-feedback-systems-spring-2013/54956fb61ce8c7f592c6b053db9c841e_MITRES_6-010S13_lec15.pdf
+file_size: 174893
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

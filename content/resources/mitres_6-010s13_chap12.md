@@ -2,9 +2,10 @@
 content_type: resource
 description: This resource contains information regarding advanced applications.
 file: /courses/res-6-010-electronic-feedback-systems-spring-2013/93492b319c29db29ab662d868275a52b_MITRES_6-010S13_chap12.pdf
+file_size: 3302415
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Online Textbook
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

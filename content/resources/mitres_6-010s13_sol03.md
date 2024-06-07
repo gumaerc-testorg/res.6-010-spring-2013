@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding chapter 3 solutions.
 file: /courses/res-6-010-electronic-feedback-systems-spring-2013/95ffc66687cf6367b12c56c367673af5_MITRES_6-010S13_sol03.pdf
+file_size: 452965
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
