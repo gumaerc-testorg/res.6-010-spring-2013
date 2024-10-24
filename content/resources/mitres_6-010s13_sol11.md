@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding chapter 11 solutions.
-file: /courses/res-6-010-electronic-feedback-systems-spring-2013/f6b019a9a9eca0c74f58c002abf8813b_MITRES_6-010S13_sol11.pdf
+file: /ol-ocw-studio-app/courses/res-6-010-electronic-feedback-systems-spring-2013/f6b019a9a9eca0c74f58c002abf8813b_MITRES_6-010S13_sol11.pdf
 file_size: 215565
 file_type: application/pdf
 learning_resource_types: []
