@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding properties and modeling
   of feedback systems.
-file: /courses/res-6-010-electronic-feedback-systems-spring-2013/307cb9d5beb51f58cb44b699e0c9cac2_MITRES_6-010S13_chap02.pdf
+file: /ol-ocw-studio-app/courses/res-6-010-electronic-feedback-systems-spring-2013/307cb9d5beb51f58cb44b699e0c9cac2_MITRES_6-010S13_chap02.pdf
 file_size: 1638204
 file_type: application/pdf
 learning_resource_types:

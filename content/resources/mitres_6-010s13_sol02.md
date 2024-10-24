@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding chapter 2 solutions.
-file: /courses/res-6-010-electronic-feedback-systems-spring-2013/65d7eb71a82a64d11fb9ef62572317a8_MITRES_6-010S13_sol02.pdf
+file: /ol-ocw-studio-app/courses/res-6-010-electronic-feedback-systems-spring-2013/65d7eb71a82a64d11fb9ef62572317a8_MITRES_6-010S13_sol02.pdf
 file_size: 280648
 file_type: application/pdf
 learning_resource_types: []

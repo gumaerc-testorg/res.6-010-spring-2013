@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding feedback compensation of
   an operational amplifier.
-file: /courses/res-6-010-electronic-feedback-systems-spring-2013/b4d8d413547a5c27134dd9ea46942677_MITRES_6-010S13_lec12.pdf
+file: /ol-ocw-studio-app/courses/res-6-010-electronic-feedback-systems-spring-2013/b4d8d413547a5c27134dd9ea46942677_MITRES_6-010S13_lec12.pdf
 file_size: 345067
 file_type: application/pdf
 learning_resource_types: []
