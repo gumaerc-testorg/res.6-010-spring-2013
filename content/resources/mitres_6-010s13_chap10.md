@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding integrated-circuit operational
   amplifiers.
-file: /courses/res-6-010-electronic-feedback-systems-spring-2013/e5e99dfed6fb59195ba76fae54c59fb7_MITRES_6-010S13_chap10.pdf
+file: /ol-ocw-studio-app/courses/res-6-010-electronic-feedback-systems-spring-2013/e5e99dfed6fb59195ba76fae54c59fb7_MITRES_6-010S13_chap10.pdf
 file_size: 2671070
 file_type: application/pdf
 learning_resource_types:
