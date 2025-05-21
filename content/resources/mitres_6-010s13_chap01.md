@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding background and objectives.
 draft: false
-file: /ol-ocw-studio-app/courses/res-6-010-electronic-feedback-systems-spring-2013/432fa8464521d3998a5f815bd57e42c9_MITRES_6-010S13_chap01.pdf
+file: /courses/res-6-010-electronic-feedback-systems-spring-2013/432fa8464521d3998a5f815bd57e42c9_MITRES_6-010S13_chap01.pdf
 file_size: 915229
 file_type: application/pdf
 image_metadata:
