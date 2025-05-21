@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding chapter 9 solutions.
-file: /ol-ocw-studio-app/courses/res-6-010-electronic-feedback-systems-spring-2013/ae80c082c38e02b31530bed7292473cf_MITRES_6-010S13_sol09.pdf
+file: /courses/res-6-010-electronic-feedback-systems-spring-2013/ae80c082c38e02b31530bed7292473cf_MITRES_6-010S13_sol09.pdf
 file_size: 476323
 file_type: application/pdf
 learning_resource_types: []
