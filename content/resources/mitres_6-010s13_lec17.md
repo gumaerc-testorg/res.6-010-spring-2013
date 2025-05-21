@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding conditional stability.
-file: /ol-ocw-studio-app/courses/res-6-010-electronic-feedback-systems-spring-2013/793054b9e0b305bf42334e06fbd26478_MITRES_6-010S13_lec17.pdf
+file: /courses/res-6-010-electronic-feedback-systems-spring-2013/793054b9e0b305bf42334e06fbd26478_MITRES_6-010S13_lec17.pdf
 file_size: 312264
 file_type: application/pdf
 learning_resource_types: []

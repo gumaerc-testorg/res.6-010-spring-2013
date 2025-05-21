@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding model train Speed control.
-file: /ol-ocw-studio-app/courses/res-6-010-electronic-feedback-systems-spring-2013/058d0f3f7a74a1ccca62df8a90a24734_MITRES_6-010S13_lec20.pdf
+file: /courses/res-6-010-electronic-feedback-systems-spring-2013/058d0f3f7a74a1ccca62df8a90a24734_MITRES_6-010S13_lec20.pdf
 file_size: 195253
 file_type: application/pdf
 learning_resource_types: []

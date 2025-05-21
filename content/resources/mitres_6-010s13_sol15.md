@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding chapter 15 solutions.
-file: /ol-ocw-studio-app/courses/res-6-010-electronic-feedback-systems-spring-2013/50285a731fd357fd45936e796ffd298d_MITRES_6-010S13_sol15.pdf
+file: /courses/res-6-010-electronic-feedback-systems-spring-2013/50285a731fd357fd45936e796ffd298d_MITRES_6-010S13_sol15.pdf
 file_size: 181434
 file_type: application/pdf
 learning_resource_types: []

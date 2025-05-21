@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding chapter 17 solutions.
-file: /ol-ocw-studio-app/courses/res-6-010-electronic-feedback-systems-spring-2013/30ba352d9dbe3cff45beb8826bc6b9e6_MITRES_6-010S13_sol17.pdf
+file: /courses/res-6-010-electronic-feedback-systems-spring-2013/30ba352d9dbe3cff45beb8826bc6b9e6_MITRES_6-010S13_sol17.pdf
 file_size: 242558
 file_type: application/pdf
 learning_resource_types: []

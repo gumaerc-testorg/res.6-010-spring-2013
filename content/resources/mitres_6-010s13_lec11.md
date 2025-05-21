@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding feedback compensation.
-file: /ol-ocw-studio-app/courses/res-6-010-electronic-feedback-systems-spring-2013/55325233d8d099284882d94a4729383d_MITRES_6-010S13_lec11.pdf
+file: /courses/res-6-010-electronic-feedback-systems-spring-2013/55325233d8d099284882d94a4729383d_MITRES_6-010S13_lec11.pdf
 file_size: 192635
 file_type: application/pdf
 learning_resource_types: []
