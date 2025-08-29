@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information regarding basic applications.
-file: /courses/res-6-010-electronic-feedback-systems-spring-2013/14d048dde1537464230b1a52ccc7ec1a_MITRES_6-010S13_chap11.pdf
+file: /ol-ocw-studio-app/courses/res-6-010-electronic-feedback-systems-spring-2013/14d048dde1537464230b1a52ccc7ec1a_MITRES_6-010S13_chap11.pdf
 file_size: 2324814
 file_type: application/pdf
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
