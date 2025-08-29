@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding background and objectives.
 draft: false
-file: /courses/res-6-010-electronic-feedback-systems-spring-2013/432fa8464521d3998a5f815bd57e42c9_MITRES_6-010S13_chap01.pdf
+file: /ol-ocw-studio-app/courses/res-6-010-electronic-feedback-systems-spring-2013/432fa8464521d3998a5f815bd57e42c9_MITRES_6-010S13_chap01.pdf
 file_size: 915229
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
