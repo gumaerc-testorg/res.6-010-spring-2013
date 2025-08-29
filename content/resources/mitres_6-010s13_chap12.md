@@ -5,7 +5,7 @@ file: /ol-ocw-studio-app/courses/res-6-010-electronic-feedback-systems-spring-20
 file_size: 3302415
 file_type: application/pdf
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
