@@ -8,7 +8,7 @@ ocw_type: SupplementalResourceSection
 title: Textbook
 uid: c87237fe-22ae-0a95-48ee-30c2382847cc
 ---
-These files form the textbook *Operational Amplifiers: Theory and Practice*, James K. Roberge, originally published by John Wiley & Sons Inc. in 1975 in the United States and Canada. Copyrights were returned to James K. Roberge, who gave permission for the book to be published on OpenCourseWare under our [license](https://ocw-studio.odl.mit.edu/terms/#cc).
+These files form the textbook *Operational Amplifiers: Theory and Practice*, James K. Roberge, originally published by John Wiley & Sons Inc. in 1975 in the United States and Canada. Copyrights were returned to James K. Roberge, who gave permission for the book to be published on OpenCourseWare under our {{% resource_link "b03a3104-f457-44db-8ad6-20d7b98d1bf9" "license" %}}.
 
 {{% resource_link "2d4bc4aa-1215-445f-bdfd-479c704993c9" "Download the book as a single file (PDF" %}})
 
